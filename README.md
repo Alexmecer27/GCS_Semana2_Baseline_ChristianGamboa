@@ -1,4 +1,4 @@
-# Proyecto GCS - Baseline v1.0 - Cristian Gamboa
+# Proyecto GCS - Baseline v1.0 - Christian Gamboa
 
 ## Objetivo
 Implementar un repositorio con buenas prácticas de gestión de configuración, estableciendo una línea base auditable y trazable para la materia de Gestión de Configuración de Software.
